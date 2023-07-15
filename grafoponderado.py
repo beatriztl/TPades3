@@ -76,6 +76,7 @@ class GrafoPonderado:
         votos_iguais = defaultdict(int)
         num_nos = set()
         num_arestas = 0
+        grafo = GrafoPonderado()
 
         for i, linha1 in enumerate(data):
             id_votacao1 = linha1[0]
@@ -101,5 +102,5 @@ class GrafoPonderado:
             arquivo.write(f" {len(num_nos)}")
             arquivo.write(f"  {num_arestas}\n")
             for (deputado1, deputado2), contagem in votos_iguais.items():
-                arquivo.write(f"{deputado1} e {deputado2}: {contagem}\n")
+                arquivo.write(f"{deputado1}  {deputado2} {contagem}\n")
 
