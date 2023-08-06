@@ -108,7 +108,7 @@ class GrafoPonderado:
                 arquivo.write(f"{deputado1}  {deputado2} {contagem}\n")
 
     
-    def criar_grafo_votacoes_iguais(ano, partido, output_file):
+    def criar_grafo_votacoes_iguais(ano, partido, grafo_saida_txt):
         nome_arquivo1 = f"graph{ano}.txt"
         nome_arquivo2 = f"politicians{ano}.txt"
 
@@ -130,7 +130,7 @@ class GrafoPonderado:
                     grafo.nodes[deputado2]['votacoes'] += 1
                     grafo.add_edge(deputado1, deputado2, votacao=votacao)
             
-        with open(output_file, "w", encoding="utf-8") as arquivo_saida:
+        with open(grafo_saida_txt, "w", encoding="utf-8") as arquivo_saida:
             for node1, node2, data in grafo.edges(data=True):
                 votacao = data['votacao']
                 arquivo_saida.write(f"{node1};{node2};{votacao}\n")
