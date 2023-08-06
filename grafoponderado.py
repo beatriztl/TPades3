@@ -1,4 +1,7 @@
 from collections import defaultdict
+import networkx as nx
+import matplotlib.pyplot as plt
+
 class GrafoPonderado:
     def __init__(self):
         self.lista_adj = {}
@@ -104,3 +107,40 @@ class GrafoPonderado:
             for (deputado1, deputado2), contagem in votos_iguais.items():
                 arquivo.write(f"{deputado1}  {deputado2} {contagem}\n")
 
+    
+    def criar_grafo_votacoes_iguais(ano, partido, output_file):
+        nome_arquivo1 = f"graph{ano}.txt"
+        nome_arquivo2 = f"politicians{ano}.txt"
+
+        grafo = nx.Graph()
+        
+        with open(nome_arquivo2, "r", encoding="utf-8") as arquivo_politicos:
+            for linha in arquivo_politicos:
+                nome_politico = linha.strip("[]\n").split(";")[0]
+                partido_politico = linha.strip("[]\n").split(";")[1]
+                if not partido or partido_politico in partido:
+                    grafo.add_node(nome_politico, partido=partido_politico, votacoes=0)
+
+        with open(nome_arquivo1, "r", encoding="utf-8") as arquivo_grafo:
+            for linha in arquivo_grafo:
+                dados = linha.strip("[]\n").split(";")
+                deputado1, deputado2, votacao = dados[0], dados[1], int(dados[2])
+                if grafo.has_node(deputado1) and grafo.has_node(deputado2) and votacao > 0:
+                    grafo.nodes[deputado1]['votacoes'] += 1
+                    grafo.nodes[deputado2]['votacoes'] += 1
+                    grafo.add_edge(deputado1, deputado2, votacao=votacao)
+            
+        with open(output_file, "w", encoding="utf-8") as arquivo_saida:
+            for node1, node2, data in grafo.edges(data=True):
+                votacao = data['votacao']
+                arquivo_saida.write(f"{node1};{node2};{votacao}\n")
+
+
+
+
+    
+
+   
+
+
+    
