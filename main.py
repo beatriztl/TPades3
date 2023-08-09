@@ -1,7 +1,7 @@
 import pandas as pd
 from collections import defaultdict
 from grafoponderado import GrafoPonderado
-
+import networkx as nx
 # #Lendo o arquivo de votações
 # tabela = pd.read_excel('votacoesVotos-2023.xlsx')
 # arquivo_votacoes = tabela[['idVotacao', 'voto', 'deputado_id', 'deputado_nome']]

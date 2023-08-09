@@ -7,6 +7,7 @@ class GrafoPonderado:
         self.lista_adj = {}
         self.num_nos = 0
         self.num_arestas = 0
+        self.grafo = nx.Graph()
 
     def adicionar_no(self, node):
         if node in self.lista_adj:
@@ -107,40 +108,69 @@ class GrafoPonderado:
             for (deputado1, deputado2), contagem in votos_iguais.items():
                 arquivo.write(f"{deputado1}  {deputado2} {contagem}\n")
 
-    
+
+
+    def calculate_normalized_weight(agreements, votes):
+        return agreements / int(votes)
+
     def criar_grafo_votacoes_iguais(ano, partido, grafo_saida_txt):
         nome_arquivo1 = f"graph{ano}.txt"
         nome_arquivo2 = f"politicians{ano}.txt"
 
+        # Lê os dados dos arquivos e os transforma em listas
+        with open(nome_arquivo1, "r", encoding="utf-8") as f1:
+            data1 = f1.readlines()
+
+        with open(nome_arquivo2, "r", encoding="utf-8") as f2:
+            data2 = f2.readlines()
+
         grafo = nx.Graph()
-        
+        max_votes = 0
+
         with open(nome_arquivo2, "r", encoding="utf-8") as arquivo_politicos:
             for linha in arquivo_politicos:
-                nome_politico = linha.strip("[]\n").split(";")[0]
-                partido_politico = linha.strip("[]\n").split(";")[1]
+                nome_politico, partido_politico, _ = linha.strip("[]\n").split(";")
                 if not partido or partido_politico in partido:
                     grafo.add_node(nome_politico, partido=partido_politico, votacoes=0)
 
         with open(nome_arquivo1, "r", encoding="utf-8") as arquivo_grafo:
             for linha in arquivo_grafo:
-                dados = linha.strip("[]\n").split(";")
-                deputado1, deputado2, votacao = dados[0], dados[1], int(dados[2])
+                deputado1, deputado2, votacao = linha.strip("[]\n").split(";")
+                votacao = int(votacao)
                 if grafo.has_node(deputado1) and grafo.has_node(deputado2) and votacao > 0:
                     grafo.nodes[deputado1]['votacoes'] += 1
                     grafo.nodes[deputado2]['votacoes'] += 1
                     grafo.add_edge(deputado1, deputado2, votacao=votacao)
-            
+                    
+        # Calcular e armazenar os pesos normalizados das arestas
+        normalized_weights = {}
+       
+        for node1, node2, data in grafo.edges(data=True):
+            for index, linha in enumerate(data2):
+                nome, _, votacao = linha.strip().split(";")
+                if nome == node1 or nome == node2:
+                    votacao = int(votacao)
+                    if index + 1 < len(data2):
+                        proxima_linha = data2[index + 1]
+                        proximo_nome, _, proxima_votacao = proxima_linha.strip().split(";")
+                        proxima_votacao = int(proxima_votacao)
+                        if proximo_nome == node1 or proximo_nome == node2:
+                            voto = proxima_votacao
+                            if votacao >= proxima_votacao:
+                                votacao = votacao
+                            else:
+                                votacao = proxima_votacao
+                        max_votos = votacao
+                        votacao = data['votacao']
+                        normalized_weight = GrafoPonderado.calculate_normalized_weight(votacao, max_votos)
+                        normalized_weights[(node1, node2)] = normalized_weight
+                        break
+        # Escrever os resultados formatados no arquivo de saída
         with open(grafo_saida_txt, "w", encoding="utf-8") as arquivo_saida:
-            for node1, node2, data in grafo.edges(data=True):
-                votacao = data['votacao']
-                arquivo_saida.write(f"{node1};{node2};{votacao}\n")
+            for (dep1, dep2), weight in normalized_weights.items():
+                arquivo_saida.write(f"{dep1};{dep2} (peso normalizado: {weight:.3f})\n")
 
 
 
 
-    
 
-   
-
-
-    
