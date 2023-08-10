@@ -165,12 +165,13 @@ class GrafoPonderado:
                     votacao = data['votacao']
                     normalized_weight = GrafoPonderado.calculate_normalized_weight(votacao, max_votos)
                     if normalized_weight >= threshold:
-                        normalized_weights[(node1, node2)] = normalized_weight
+                        inversao = 1 - normalized_weight
+                        normalized_weights[(node1, node2)] = inversao
                 break
         # Escrever os resultados formatados no arquivo de saída
         with open(grafo_saida_txt, "w", encoding="utf-8") as arquivo_saida:
             for (dep1, dep2), weight in normalized_weights.items():
-                arquivo_saida.write(f"{dep1};{dep2} (peso normalizado: {weight:.3f})\n")
+                arquivo_saida.write(f"{dep1};{dep2} {weight:.3f}\n")
 
 
 
