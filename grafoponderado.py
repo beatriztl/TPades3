@@ -113,7 +113,7 @@ class GrafoPonderado:
     def calculate_normalized_weight(agreements, votes):
         return agreements / int(votes)
 
-    def criar_grafo_votacoes_iguais(ano, partido, grafo_saida_txt):
+    def criar_grafo_votacoes_iguais(ano, partido, grafo_saida_txt, threshold):
         nome_arquivo1 = f"graph{ano}.txt"
         nome_arquivo2 = f"politicians{ano}.txt"
 
@@ -150,21 +150,23 @@ class GrafoPonderado:
                 nome, _, votacao = linha.strip().split(";")
                 if nome == node1 or nome == node2:
                     votacao = int(votacao)
-                    if index + 1 < len(data2):
+                    while index + 1 < len(data2):
                         proxima_linha = data2[index + 1]
                         proximo_nome, _, proxima_votacao = proxima_linha.strip().split(";")
                         proxima_votacao = int(proxima_votacao)
                         if proximo_nome == node1 or proximo_nome == node2:
                             voto = proxima_votacao
-                            if votacao >= proxima_votacao:
+                            if votacao <= proxima_votacao:
                                 votacao = votacao
                             else:
                                 votacao = proxima_votacao
-                        max_votos = votacao
-                        votacao = data['votacao']
-                        normalized_weight = GrafoPonderado.calculate_normalized_weight(votacao, max_votos)
+                        index += 1           
+                    max_votos = votacao
+                    votacao = data['votacao']
+                    normalized_weight = GrafoPonderado.calculate_normalized_weight(votacao, max_votos)
+                    if normalized_weight >= threshold:
                         normalized_weights[(node1, node2)] = normalized_weight
-                        break
+                break
         # Escrever os resultados formatados no arquivo de saída
         with open(grafo_saida_txt, "w", encoding="utf-8") as arquivo_saida:
             for (dep1, dep2), weight in normalized_weights.items():

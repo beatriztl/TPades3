@@ -28,6 +28,7 @@ if not partido[0].strip():
 if ano not in anos:
     print(f"Ano inválido. Escolha um ano entre 2002 e 2023.")
 else:
+    threshold = 0.7
     grafo_resultado_filtros = f"grafo_votacoes_iguais_por_filtros_{ano}.txt"
-    GrafoPonderado.criar_grafo_votacoes_iguais(ano, partido, grafo_resultado_filtros)
+    GrafoPonderado.criar_grafo_votacoes_iguais(ano, partido, grafo_resultado_filtros, threshold)
     print(f"Grafo de votações iguais normalizado salvo em {grafo_resultado_filtros}.")
