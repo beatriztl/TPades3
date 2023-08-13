@@ -1,6 +1,7 @@
 from collections import defaultdict
 import networkx as nx
 import matplotlib.pyplot as plt
+from matplotlib.backends.backend_pdf import PdfPages
 
 class GrafoPonderado:
     def __init__(self):
@@ -108,15 +109,87 @@ class GrafoPonderado:
             for (deputado1, deputado2), contagem in votos_iguais.items():
                 arquivo.write(f"{deputado1}  {deputado2} {contagem}\n")
 
-
-
+    @staticmethod
     def calculate_normalized_weight(agreements, votes):
-        return agreements / int(votes)
+        # return agreements / int(votes)
+        agreements = int(agreements)  # Converta para inteiro
+        return agreements / votes  # Agora a divisão deve funcionar 
 
-    def criar_grafo_votacoes_iguais(ano, partido, grafo_saida_txt, threshold):
+    def betweenness_centrality(self):
+        betweenness = nx.betweenness_centrality(self)
+        return betweenness
+
+######## "ORIGINAL" SEM GRAFICO ########
+    # def criar_grafo_votacoes_iguais(ano, partido, grafo_saida_txt, threshold, pdf_output_filename):
+    #     nome_arquivo1 = f"graph{ano}.txt"
+    #     nome_arquivo2 = f"politicians{ano}.txt"
+
+    #     threshold = float(threshold)
+
+    #     # Lê os dados dos arquivos e os transforma em listas
+    #     with open(nome_arquivo1, "r", encoding="utf-8") as f1:
+    #         data1 = f1.readlines()
+
+    #     with open(nome_arquivo2, "r", encoding="utf-8") as f2:
+    #         data2 = f2.readlines()
+
+    #     grafo = nx.Graph()
+    #     max_votes = 0
+
+    #     with open(nome_arquivo2, "r", encoding="utf-8") as arquivo_politicos:
+    #         for linha in arquivo_politicos:
+    #             nome_politico, partido_politico, _ = linha.strip("[]\n").split(";")
+    #             if not partido or partido_politico in partido:
+    #                 grafo.add_node(nome_politico, partido=partido_politico, votacoes=0)
+
+    #     with open(nome_arquivo1, "r", encoding="utf-8") as arquivo_grafo:
+    #         for linha in arquivo_grafo:
+    #             deputado1, deputado2, votacao = linha.strip("[]\n").split(";")
+    #             votacao = int(votacao)
+    #             if grafo.has_node(deputado1) and grafo.has_node(deputado2) and votacao > 0:
+    #                 grafo.nodes[deputado1]['votacoes'] += 1
+    #                 grafo.nodes[deputado2]['votacoes'] += 1
+    #                 grafo.add_edge(deputado1, deputado2, votacao=votacao)
+    #     # Calcular e armazenar os pesos normalizados das arestas
+    #     normalized_weights = {}
+       
+    #     for node1, node2, data in grafo.edges(data=True):
+    #         for index, linha in enumerate(data2):
+    #             nome, _, votacao = linha.strip().split(";")
+    #             if nome == node1 or nome == node2:
+    #                 votacao = int(votacao)
+    #                 while index + 1 < len(data2):
+    #                     proxima_linha = data2[index + 1]
+    #                     proximo_nome, _, proxima_votacao = proxima_linha.strip().split(";")
+    #                     proxima_votacao = int(proxima_votacao)
+    #                     if proximo_nome == node1 or proximo_nome == node2:
+    #                         voto = proxima_votacao
+    #                         if votacao <= proxima_votacao:
+    #                             votacao = votacao
+    #                         else:
+    #                             votacao = proxima_votacao
+    #                     index += 1           
+    #                 max_votos = votacao
+    #                 votacao = data['votacao']
+    #                 normalized_weight = GrafoPonderado.calculate_normalized_weight(votacao, max_votos)
+    #                 if normalized_weight >= threshold:
+    #                     inversao = 1 - normalized_weight
+    #                     normalized_weights[(node1, node2)] = inversao
+    #             break
+    #     # Escrever os resultados formatados no arquivo de saída
+    #     with open(grafo_saida_txt, "w", encoding="utf-8") as arquivo_saida:
+    #         for (dep1, dep2), weight in normalized_weights.items():
+    #             arquivo_saida.write(f"{dep1};{dep2} {weight:.3f}\n")
+######## "ORIGINAL" ########
+
+##############################################################################################################        
+##############################################################################################################
+        
+#################### FAZ GRAFICO DE BARRAS ##########################################
+    def criar_grafo_votacoes_iguais(ano, partido, grafo_saida_txt, threshold, pdf_output_filename):
         nome_arquivo1 = f"graph{ano}.txt"
         nome_arquivo2 = f"politicians{ano}.txt"
-
+        threshold = float(threshold)
         # Lê os dados dos arquivos e os transforma em listas
         with open(nome_arquivo1, "r", encoding="utf-8") as f1:
             data1 = f1.readlines()
@@ -141,10 +214,10 @@ class GrafoPonderado:
                     grafo.nodes[deputado1]['votacoes'] += 1
                     grafo.nodes[deputado2]['votacoes'] += 1
                     grafo.add_edge(deputado1, deputado2, votacao=votacao)
-                    
         # Calcular e armazenar os pesos normalizados das arestas
         normalized_weights = {}
-       
+        betweenness_scores = {}  # Armazenar os valores de betweenness
+
         for node1, node2, data in grafo.edges(data=True):
             for index, linha in enumerate(data2):
                 nome, _, votacao = linha.strip().split(";")
@@ -163,17 +236,35 @@ class GrafoPonderado:
                         index += 1           
                     max_votos = votacao
                     votacao = data['votacao']
-                    normalized_weight = GrafoPonderado.calculate_normalized_weight(votacao, max_votos)
-                    if normalized_weight >= threshold:
-                        inversao = 1 - normalized_weight
-                        normalized_weights[(node1, node2)] = inversao
-                break
+            
+            normalized_weight = GrafoPonderado.calculate_normalized_weight(votacao, max_votos)
+            if normalized_weight >= threshold:
+                inversao = 1 - normalized_weight
+                normalized_weights[(node1, node2)] = inversao
+
+        # Calcular o betweenness centrality
+        betweenness_scores = nx.betweenness_centrality(grafo)
+
         # Escrever os resultados formatados no arquivo de saída
         with open(grafo_saida_txt, "w", encoding="utf-8") as arquivo_saida:
             for (dep1, dep2), weight in normalized_weights.items():
                 arquivo_saida.write(f"{dep1};{dep2} {weight:.3f}\n")
 
-
-
+        # Criar gráfico com valores de betweenness
+        deputados = list(betweenness_scores.keys()) 
+        scores = list(betweenness_scores.values()) # Transforma o dicionário em lista
+        plt.figure(figsize=(20, 10))
+        plt.bar(deputados, scores) # Cria o gráfico de barras
+        plt.xlabel('Deputados')
+        plt.ylabel('Betweenness')
+        plt.title('Medida de Centralidade - Betweenness')
+        plt.xticks(rotation=45, ha='right') # Rotacionar os nomes dos deputados
+        plt.tight_layout()  # Ajustar o espaçamento entre as barras e a borda do gráfico
+        plt.gcf().subplots_adjust(bottom=0.20)# ajusta o tamanho do nome dos deputados
+        
+        # Salvar o gráfico em um arquivo PDF
+        with PdfPages(pdf_output_filename) as pdf:
+            pdf.savefig()
+            plt.close()
 
 

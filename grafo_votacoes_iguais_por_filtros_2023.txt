@@ -1,489 +1,155 @@
-Alfredo Gaspar;Beto Richa (peso normalizado: 0.522)
-Alfredo Gaspar;Cabo Gilberto Silva (peso normalizado: 0.217)
-Alfredo Gaspar;Capitão Alberto Neto (peso normalizado: 0.330)
-Alfredo Gaspar;Caroline de Toni (peso normalizado: 0.239)
-Alfredo Gaspar;Coronel Meira (peso normalizado: 0.281)
-Alfredo Gaspar;Delegado Éder Mauro (peso normalizado: 0.322)
-Alfredo Gaspar;Delegado Ramagem (peso normalizado: 0.315)
-Alfredo Gaspar;Diego Garcia (peso normalizado: 0.505)
-Alfredo Gaspar;Gerlen Diniz (peso normalizado: 0.378)
-Alfredo Gaspar;Gilson Marques (peso normalizado: 0.243)
-Alfredo Gaspar;Jorge Goetten (peso normalizado: 0.380)
-Alfredo Gaspar;José Nelto (peso normalizado: 0.561)
-Alfredo Gaspar;Lafayette de Andrada (peso normalizado: 0.506)
-Alfredo Gaspar;Lucas Redecker (peso normalizado: 0.266)
-Alfredo Gaspar;Marangoni (peso normalizado: 0.581)
-Alfredo Gaspar;Marcos Pollon (peso normalizado: 0.268)
-Alfredo Gaspar;Mauricio Marcon (peso normalizado: 0.236)
-Alfredo Gaspar;Pastor Eurico (peso normalizado: 0.365)
-Alfredo Gaspar;Pr. Marco Feliciano (peso normalizado: 0.349)
-Alfredo Gaspar;Roberto Duarte (peso normalizado: 0.413)
-Alfredo Gaspar;Robinson Faria (peso normalizado: 0.467)
-Alfredo Gaspar;Rosângela Moro (peso normalizado: 0.296)
-Alfredo Gaspar;Rosângela Reis (peso normalizado: 0.446)
-Alfredo Gaspar;Yandra Moura (peso normalizado: 0.600)
-Alfredo Gaspar;Yury do Paredão (peso normalizado: 0.548)
-Alfredo Gaspar;Chris Tonietto (peso normalizado: 0.386)
-Alfredo Gaspar;Cobalchini (peso normalizado: 0.594)
-Alfredo Gaspar;Coronel Fernanda (peso normalizado: 0.330)
-Alfredo Gaspar;Covatti Filho (peso normalizado: 0.308)
-Alfredo Gaspar;Delegado Marcelo Freitas (peso normalizado: 0.552)
-Alfredo Gaspar;Deltan Dallagnol (peso normalizado: 0.338)
-Alfredo Gaspar;Felipe Francischini (peso normalizado: 0.411)
-Alfredo Gaspar;João Leão (peso normalizado: 0.552)
-Alfredo Gaspar;Julia Zanatta (peso normalizado: 0.279)
-Alfredo Gaspar;Nicoletti (peso normalizado: 0.312)
-Alfredo Gaspar;Zé Haroldo Cathedral (peso normalizado: 0.657)
-Alfredo Gaspar;Arthur Oliveira Maia (peso normalizado: 0.590)
-Alfredo Gaspar;Átila Lira (peso normalizado: 0.570)
-Alfredo Gaspar;Capitão Augusto (peso normalizado: 0.292)
-Alfredo Gaspar;Fabio Garcia (peso normalizado: 0.333)
-Alfredo Gaspar;Fausto Santos Jr. (peso normalizado: 0.575)
-Alfredo Gaspar;Marcelo Crivella (peso normalizado: 0.578)
-Alfredo Gaspar;Carlos Jordy (peso normalizado: 0.268)
-Alfredo Gaspar;Delegada Katarina (peso normalizado: 0.663)
-Alfredo Gaspar;Diego Coronel (peso normalizado: 0.699)
-Alfredo Gaspar;Laura Carneiro (peso normalizado: 0.756)
-Alfredo Gaspar;Mendonça Filho (peso normalizado: 0.310)
-Alfredo Gaspar;Murilo Galdino (peso normalizado: 0.667)
-Alfredo Gaspar;Waldemar Oliveira (peso normalizado: 0.683)
-Alfredo Gaspar;Abilio Brunini (peso normalizado: 0.275)
-Alfredo Gaspar;Adail Filho (peso normalizado: 0.560)
-Alfredo Gaspar;Adilson Barroso (peso normalizado: 0.329)
-Alfredo Gaspar;Aécio Neves (peso normalizado: 0.492)
-Alfredo Gaspar;Afonso Hamm (peso normalizado: 0.206)
-Alfredo Gaspar;Aguinaldo Ribeiro (peso normalizado: 0.569)
-Alfredo Gaspar;Alberto Fraga (peso normalizado: 0.322)
-Alfredo Gaspar;Alex Santana (peso normalizado: 0.547)
-Alfredo Gaspar;Alexandre Guimarães (peso normalizado: 0.586)
-Alfredo Gaspar;Alexandre Leite (peso normalizado: 0.467)
-Alfredo Gaspar;Aluisio Mendes (peso normalizado: 0.588)
-Alfredo Gaspar;Amália Barros (peso normalizado: 0.267)
-Alfredo Gaspar;Amanda Gentil (peso normalizado: 0.545)
-Alfredo Gaspar;Amaro Neto (peso normalizado: 0.558)
-Alfredo Gaspar;Amom Mandel (peso normalizado: 0.547)
-Alfredo Gaspar;Ana Paula Leão (peso normalizado: 0.370)
-Alfredo Gaspar;Antônia Lúcia (peso normalizado: 0.660)
-Alfredo Gaspar;Antonio Andrade (peso normalizado: 0.562)
-Alfredo Gaspar;Antonio Carlos Rodrigues (peso normalizado: 0.500)
-Alfredo Gaspar;Antônio Doido (peso normalizado: 0.651)
-Alfredo Gaspar;Any Ortiz (peso normalizado: 0.303)
-Alfredo Gaspar;Arnaldo Jardim (peso normalizado: 0.569)
-Alfredo Gaspar;Augusto Puppio (peso normalizado: 0.713)
-Alfredo Gaspar;Baleia Rossi (peso normalizado: 0.656)
-Alfredo Gaspar;Bebeto (peso normalizado: 0.560)
-Alfredo Gaspar;Beto Pereira (peso normalizado: 0.646)
-Alfredo Gaspar;Bia Kicis (peso normalizado: 0.265)
-Alfredo Gaspar;Bibo Nunes (peso normalizado: 0.318)
-Alfredo Gaspar;Capitão Alden (peso normalizado: 0.222)
-Alfredo Gaspar;Carlos Gomes (peso normalizado: 0.579)
-Alfredo Gaspar;Carlos Sampaio (peso normalizado: 0.382)
-Alfredo Gaspar;Celso Russomanno (peso normalizado: 0.617)
-Alfredo Gaspar;Clarissa Tércio (peso normalizado: 0.306)
-Alfredo Gaspar;Claudio Cajado (peso normalizado: 0.645)
-Alfredo Gaspar;Coronel Chrisóstomo (peso normalizado: 0.337)
-Alfredo Gaspar;Cristiane Lopes (peso normalizado: 0.273)
-Alfredo Gaspar;Da Vitoria (peso normalizado: 0.547)
-Alfredo Gaspar;Dani Cunha (peso normalizado: 0.506)
-Alfredo Gaspar;Daniel Barbosa (peso normalizado: 0.738)
-Alfredo Gaspar;Daniel Freitas (peso normalizado: 0.289)
-Alfredo Gaspar;Daniel Trzeciak (peso normalizado: 0.329)
-Alfredo Gaspar;Daniela Reinehr (peso normalizado: 0.265)
-Alfredo Gaspar;Defensor Stélio Dener (peso normalizado: 0.663)
-Alfredo Gaspar;Delegado Caveira (peso normalizado: 0.226)
-Alfredo Gaspar;Delegado Fabio Costa (peso normalizado: 0.400)
-Alfredo Gaspar;Delegado Palumbo (peso normalizado: 0.253)
-Alfredo Gaspar;Delegado Paulo Bilynskyj (peso normalizado: 0.299)
-Alfredo Gaspar;Dimas Fabiano (peso normalizado: 0.518)
-Alfredo Gaspar;Domingos Sávio (peso normalizado: 0.316)
-Alfredo Gaspar;Dr. Frederico (peso normalizado: 0.205)
-Alfredo Gaspar;Dr. Jaziel (peso normalizado: 0.317)
-Alfredo Gaspar;Dr. Luiz Ovando (peso normalizado: 0.477)
-Alfredo Gaspar;Eduardo Bolsonaro (peso normalizado: 0.267)
-Alfredo Gaspar;Eduardo da Fonte (peso normalizado: 0.653)
-Alfredo Gaspar;Emidinho Madeira (peso normalizado: 0.250)
-Alfredo Gaspar;Eros Biondini (peso normalizado: 0.282)
-Alfredo Gaspar;Evair Vieira de Melo (peso normalizado: 0.233)
-Alfredo Gaspar;Fabio Reis (peso normalizado: 0.644)
-Alfredo Gaspar;Fabio Schiochet (peso normalizado: 0.368)
-Alfredo Gaspar;Felipe Carreras (peso normalizado: 0.654)
-Alfredo Gaspar;Fernando Rodolfo (peso normalizado: 0.425)
-Alfredo Gaspar;Filipe Barros (peso normalizado: 0.297)
-Alfredo Gaspar;Filipe Martins (peso normalizado: 0.397)
-Alfredo Gaspar;Franciane Bayer (peso normalizado: 0.415)
-Alfredo Gaspar;Fred Linhares (peso normalizado: 0.518)
-Alfredo Gaspar;General Girão (peso normalizado: 0.306)
-Alfredo Gaspar;General Pazuello (peso normalizado: 0.357)
-Alfredo Gaspar;Geovania de Sá (peso normalizado: 0.265)
-Alfredo Gaspar;Gilberto Abramo (peso normalizado: 0.602)
-Alfredo Gaspar;Gilvan da Federal (peso normalizado: 0.299)
-Alfredo Gaspar;Giovani Cherini (peso normalizado: 0.316)
-Alfredo Gaspar;Glaustin da Fokus (peso normalizado: 0.633)
-Alfredo Gaspar;Helio Lopes (peso normalizado: 0.340)
-Alfredo Gaspar;Icaro de Valmir (peso normalizado: 0.494)
-Alfredo Gaspar;Jeferson Rodrigues (peso normalizado: 0.605)
-Alfredo Gaspar;Jefferson Campos (peso normalizado: 0.316)
-Alfredo Gaspar;João Maia (peso normalizado: 0.382)
-Alfredo Gaspar;Joaquim Passarinho (peso normalizado: 0.270)
-Alfredo Gaspar;Jorge Braz (peso normalizado: 0.556)
-Alfredo Gaspar;Josias Gomes (peso normalizado: 0.774)
-Alfredo Gaspar;Julio Lopes (peso normalizado: 0.652)
-Alfredo Gaspar;Junio Amaral (peso normalizado: 0.257)
-Alfredo Gaspar;Júnior Ferrari (peso normalizado: 0.565)
-Alfredo Gaspar;Junior Lourenço (peso normalizado: 0.654)
-Alfredo Gaspar;Keniston Braga (peso normalizado: 0.622)
-Alfredo Gaspar;Kim Kataguiri (peso normalizado: 0.253)
-Alfredo Gaspar;Lázaro Botelho (peso normalizado: 0.594)
-Alfredo Gaspar;Lincoln Portela (peso normalizado: 0.342)
-Alfredo Gaspar;Luis Carlos Gomes (peso normalizado: 0.616)
-Alfredo Gaspar;Luiz Antônio Corrêa (peso normalizado: 0.580)
-Alfredo Gaspar;Luiz Carlos Motta (peso normalizado: 0.375)
-Alfredo Gaspar;Luiz Lima (peso normalizado: 0.322)
-Alfredo Gaspar;Luiz Philippe de Orleans e Bragança (peso normalizado: 0.289)
-Alfredo Gaspar;Marcel van Hattem (peso normalizado: 0.231)
-Alfredo Gaspar;Marcelo Álvaro Antônio (peso normalizado: 0.283)
-Alfredo Gaspar;Marcelo Queiroz (peso normalizado: 0.621)
-Alfredo Gaspar;Márcio Marinho (peso normalizado: 0.588)
-Alfredo Gaspar;Marco Bertaiolli (peso normalizado: 0.573)
-Alfredo Gaspar;Marco Brasil (peso normalizado: 0.571)
-Alfredo Gaspar;Maria Rosas (peso normalizado: 0.593)
-Alfredo Gaspar;Matheus Noronha (peso normalizado: 0.512)
-Alfredo Gaspar;Maurício Carvalho (peso normalizado: 0.310)
-Alfredo Gaspar;Mauricio do Vôlei (peso normalizado: 0.203)
-Alfredo Gaspar;Mauricio Neves (peso normalizado: 0.578)
-Alfredo Gaspar;Mersinho Lucena (peso normalizado: 0.545)
-Alfredo Gaspar;Messias Donato (peso normalizado: 0.289)
-Alfredo Gaspar;Miguel Lombardi (peso normalizado: 0.380)
-Alfredo Gaspar;Milton Vieira (peso normalizado: 0.561)
-Alfredo Gaspar;Nikolas Ferreira (peso normalizado: 0.239)
-Alfredo Gaspar;Osmar Terra (peso normalizado: 0.247)
-Alfredo Gaspar;Pastor Gil (peso normalizado: 0.373)
-Alfredo Gaspar;Paulinho Freire (peso normalizado: 0.440)
-Alfredo Gaspar;Paulo Alexandre Barbosa (peso normalizado: 0.470)
-Alfredo Gaspar;Paulo Freire Costa (peso normalizado: 0.349)
-Alfredo Gaspar;Pedro Westphalen (peso normalizado: 0.241)
-Alfredo Gaspar;Pezenti (peso normalizado: 0.378)
-Alfredo Gaspar;Pinheirinho (peso normalizado: 0.545)
-Alfredo Gaspar;Prof. Paulo Fernando (peso normalizado: 0.440)
-Alfredo Gaspar;Prof. Reginaldo Veras (peso normalizado: 0.691)
-Alfredo Gaspar;Rafael Prudente (peso normalizado: 0.562)
-Alfredo Gaspar;Rafael Simoes (peso normalizado: 0.427)
-Alfredo Gaspar;Raimundo Santos (peso normalizado: 0.583)
-Alfredo Gaspar;Reinhold Stephanes (peso normalizado: 0.397)
-Alfredo Gaspar;Ricardo Guidi (peso normalizado: 0.269)
-Alfredo Gaspar;Roberta Roma (peso normalizado: 0.299)
-Alfredo Gaspar;Roberto Monteiro (peso normalizado: 0.360)
-Alfredo Gaspar;Rodolfo Nogueira (peso normalizado: 0.269)
-Alfredo Gaspar;Rogéria Santos (peso normalizado: 0.566)
-Alfredo Gaspar;Rosana Valle (peso normalizado: 0.267)
-Alfredo Gaspar;Sanderson (peso normalizado: 0.321)
-Alfredo Gaspar;Sargento Fahur (peso normalizado: 0.253)
-Alfredo Gaspar;Sargento Gonçalves (peso normalizado: 0.247)
-Alfredo Gaspar;Silvia Cristina (peso normalizado: 0.411)
-Alfredo Gaspar;Silvia Waiãpi (peso normalizado: 0.286)
-Alfredo Gaspar;Simone Marquetto (peso normalizado: 0.605)
-Alfredo Gaspar;Socorro Neri (peso normalizado: 0.598)
-Alfredo Gaspar;Sonize Barbosa (peso normalizado: 0.244)
-Alfredo Gaspar;Tabata Amaral (peso normalizado: 0.702)
-Alfredo Gaspar;Thiago de Joaldo (peso normalizado: 0.545)
-Alfredo Gaspar;Thiago Flores (peso normalizado: 0.471)
-Alfredo Gaspar;Tião Medeiros (peso normalizado: 0.535)
-Alfredo Gaspar;Vermelho (peso normalizado: 0.358)
-Alfredo Gaspar;Vicentinho Júnior (peso normalizado: 0.514)
-Alfredo Gaspar;Vitor Lippi (peso normalizado: 0.549)
-Alfredo Gaspar;Wellington Roberto (peso normalizado: 0.409)
-Alfredo Gaspar;Zé Trovão (peso normalizado: 0.299)
-Alfredo Gaspar;Zé Vitor (peso normalizado: 0.314)
-Alfredo Gaspar;Zucco (peso normalizado: 0.319)
-Alfredo Gaspar;Adriana Ventura (peso normalizado: 0.281)
-Alfredo Gaspar;Coronel Telhada (peso normalizado: 0.246)
-Alfredo Gaspar;Daniel Agrobom (peso normalizado: 0.537)
-Alfredo Gaspar;David Soares (peso normalizado: 0.429)
-Alfredo Gaspar;Dayany Bittencourt (peso normalizado: 0.318)
-Alfredo Gaspar;Dr. Fernando Máximo (peso normalizado: 0.235)
-Alfredo Gaspar;Eli Borges (peso normalizado: 0.352)
-Alfredo Gaspar;Fausto Pinato (peso normalizado: 0.617)
-Alfredo Gaspar;Fernando Monteiro (peso normalizado: 0.595)
-Alfredo Gaspar;Gabriel Mota (peso normalizado: 0.635)
-Alfredo Gaspar;Geraldo Resende (peso normalizado: 0.613)
-Alfredo Gaspar;Giacobo (peso normalizado: 0.387)
-Alfredo Gaspar;Gilvan Maximo (peso normalizado: 0.543)
-Alfredo Gaspar;Gustinho Ribeiro (peso normalizado: 0.595)
-Alfredo Gaspar;Julio Arcoverde (peso normalizado: 0.571)
-Alfredo Gaspar;Leur Lomanto Júnior (peso normalizado: 0.500)
-Alfredo Gaspar;Magda Mofatto (peso normalizado: 0.289)
-Alfredo Gaspar;Marcio Alvino (peso normalizado: 0.310)
-Alfredo Gaspar;Mário Negromonte Jr. (peso normalizado: 0.592)
-Alfredo Gaspar;Newton Cardoso Jr (peso normalizado: 0.523)
-Alfredo Gaspar;Pedro Aihara (peso normalizado: 0.562)
-Alfredo Gaspar;Pedro Lupion (peso normalizado: 0.357)
-Alfredo Gaspar;Pedro Paulo (peso normalizado: 0.703)
-Alfredo Gaspar;Pompeo de Mattos (peso normalizado: 0.667)
-Alfredo Gaspar;Professor Alcides (peso normalizado: 0.342)
-Alfredo Gaspar;Ricardo Salles (peso normalizado: 0.274)
-Alfredo Gaspar;Silvio Costa Filho (peso normalizado: 0.744)
-Alfredo Gaspar;Vinicius Carvalho (peso normalizado: 0.625)
-Alfredo Gaspar;Vinicius Gurgel (peso normalizado: 0.597)
-Alfredo Gaspar;Wilson Santiago (peso normalizado: 0.653)
-Alfredo Gaspar;Albuquerque (peso normalizado: 0.620)
-Alfredo Gaspar;Duarte Jr. (peso normalizado: 0.767)
-Alfredo Gaspar;José Medeiros (peso normalizado: 0.341)
-Alfredo Gaspar;Lêda Borges (peso normalizado: 0.523)
-Alfredo Gaspar;Samuel Viana (peso normalizado: 0.463)
-Alfredo Gaspar;Sergio Souza (peso normalizado: 0.576)
-Alfredo Gaspar;Sóstenes Cavalcante (peso normalizado: 0.355)
-Alfredo Gaspar;Zezinho Barbary (peso normalizado: 0.667)
-Alfredo Gaspar;Alex Manente (peso normalizado: 0.558)
-Alfredo Gaspar;Daniel Soranz (peso normalizado: 0.655)
-Alfredo Gaspar;Greyce Elias (peso normalizado: 0.506)
-Alfredo Gaspar;Marx Beltrão (peso normalizado: 0.563)
-Alfredo Gaspar;Paulo Abi-Ackel (peso normalizado: 0.556)
-Alfredo Gaspar;Paulo Litro (peso normalizado: 0.643)
-Alfredo Gaspar;Sargento Portugal (peso normalizado: 0.541)
-Alfredo Gaspar;Soraya Santos (peso normalizado: 0.300)
-Alfredo Gaspar;Afonso Motta (peso normalizado: 0.674)
-Alfredo Gaspar;Alencar Santana (peso normalizado: 0.790)
-Alfredo Gaspar;Bacelar (peso normalizado: 0.789)
-Alfredo Gaspar;Eduardo Bismarck (peso normalizado: 0.743)
-Alfredo Gaspar;Erika Kokay (peso normalizado: 0.756)
-Alfredo Gaspar;Flávio Nogueira (peso normalizado: 0.779)
-Alfredo Gaspar;Gervásio Maia (peso normalizado: 0.782)
-Alfredo Gaspar;Helder Salomão (peso normalizado: 0.793)
-Alfredo Gaspar;Juarez Costa (peso normalizado: 0.650)
-Alfredo Gaspar;Luiz Couto (peso normalizado: 0.758)
-Alfredo Gaspar;Patrus Ananias (peso normalizado: 0.730)
-Alfredo Gaspar;Paulo Magalhães (peso normalizado: 0.678)
-Alfredo Gaspar;Rubens Pereira Júnior (peso normalizado: 0.792)
-Alfredo Gaspar;Sâmia Bomfim (peso normalizado: 0.750)
-Alfredo Gaspar;Fernanda Pessoa (peso normalizado: 0.553)
-Alfredo Gaspar;Luiz Gastão (peso normalizado: 0.620)
-Alfredo Gaspar;Rubens Otoni (peso normalizado: 0.773)
-Alfredo Gaspar;Tarcísio Motta (peso normalizado: 0.757)
-Alfredo Gaspar;Coronel Assis (peso normalizado: 0.349)
-Alfredo Gaspar;Delegada Ione (peso normalizado: 0.469)
-Alfredo Gaspar;Delegado da Cunha (peso normalizado: 0.586)
-Alfredo Gaspar;Felipe Becari (peso normalizado: 0.634)
-Alfredo Gaspar;Dr. Victor Linhalis (peso normalizado: 0.714)
-Alfredo Gaspar;Marcelo Moraes (peso normalizado: 0.268)
-Alfredo Gaspar;Marcos Tavares (peso normalizado: 0.776)
-Alfredo Gaspar;Altineu Côrtes (peso normalizado: 0.464)
-Alfredo Gaspar;André Fernandes (peso normalizado: 0.303)
-Alfredo Gaspar;André Ferreira (peso normalizado: 0.344)
-Alfredo Gaspar;Bruno Ganem (peso normalizado: 0.739)
-Alfredo Gaspar;Carla Zambelli (peso normalizado: 0.347)
-Alfredo Gaspar;Coronel Ulysses (peso normalizado: 0.372)
-Alfredo Gaspar;Dr. Zacharias Calil (peso normalizado: 0.358)
-Alfredo Gaspar;Dra. Alessandra Haber (peso normalizado: 0.623)
-Alfredo Gaspar;Flávia Morais (peso normalizado: 0.692)
-Alfredo Gaspar;Gilson Daniel (peso normalizado: 0.707)
-Alfredo Gaspar;Gustavo Gayer (peso normalizado: 0.292)
-Alfredo Gaspar;Hugo Leal (peso normalizado: 0.621)
-Alfredo Gaspar;Igor Timo (peso normalizado: 0.650)
-Alfredo Gaspar;Ismael (peso normalizado: 0.557)
-Alfredo Gaspar;Júnior Mano (peso normalizado: 0.519)
-Alfredo Gaspar;Luciano Vieira (peso normalizado: 0.530)
-Alfredo Gaspar;Mario Frias (peso normalizado: 0.280)
-Alfredo Gaspar;Marussa Boldrin (peso normalizado: 0.610)
-Alfredo Gaspar;Nely Aquino (peso normalizado: 0.651)
-Alfredo Gaspar;Olival Marques (peso normalizado: 0.696)
-Alfredo Gaspar;Pastor Diniz (peso normalizado: 0.316)
-Alfredo Gaspar;Priscila Costa (peso normalizado: 0.348)
-Alfredo Gaspar;Rodrigo Gambale (peso normalizado: 0.683)
-Alfredo Gaspar;Rodrigo Valadares (peso normalizado: 0.254)
-Alfredo Gaspar;Silvye Alves (peso normalizado: 0.449)
-Alfredo Gaspar;Euclydes Pettersen (peso normalizado: 0.683)
-Alfredo Gaspar;Flavinha (peso normalizado: 0.558)
-Alfredo Gaspar;Lucio Mosquini (peso normalizado: 0.623)
-Alfredo Gaspar;Padovani (peso normalizado: 0.358)
-Alfredo Gaspar;Stefano Aguiar (peso normalizado: 0.689)
-Alfredo Gaspar;Fernanda Melchionna (peso normalizado: 0.793)
-Alfredo Gaspar;Glauber Braga (peso normalizado: 0.776)
-Alfredo Gaspar;Adriano do Baldy (peso normalizado: 0.613)
-Alfredo Gaspar;Alceu Moreira (peso normalizado: 0.521)
-Alfredo Gaspar;André Fufuca (peso normalizado: 0.583)
-Alfredo Gaspar;Chiquinho Brazão (peso normalizado: 0.524)
-Alfredo Gaspar;Dilceu Sperafico (peso normalizado: 0.514)
-Alfredo Gaspar;Eduardo Velloso (peso normalizado: 0.389)
-Alfredo Gaspar;Fábio Teruel (peso normalizado: 0.685)
-Alfredo Gaspar;Geraldo Mendes (peso normalizado: 0.583)
-Alfredo Gaspar;Guilherme Uchoa (peso normalizado: 0.724)
-Alfredo Gaspar;Luciano Bivar (peso normalizado: 0.714)
-Alfredo Gaspar;Luiz Nishimori (peso normalizado: 0.667)
-Alfredo Gaspar;Lula da Fonte (peso normalizado: 0.633)
-Alfredo Gaspar;Neto Carletto (peso normalizado: 0.634)
-Alfredo Gaspar;Ricardo Abrão (peso normalizado: 0.623)
-Alfredo Gaspar;Toninho Wandscheer (peso normalizado: 0.617)
-Alfredo Gaspar;Acácio Favacho (peso normalizado: 0.697)
-Alfredo Gaspar;Adolfo Viana (peso normalizado: 0.481)
-Alfredo Gaspar;Airton Faleiro (peso normalizado: 0.766)
-Alfredo Gaspar;AJ Albuquerque (peso normalizado: 0.610)
-Alfredo Gaspar;Alberto Mourão (peso normalizado: 0.644)
-Alfredo Gaspar;Alexandre Lindenmeyer (peso normalizado: 0.800)
-Alfredo Gaspar;Alice Portugal (peso normalizado: 0.779)
-Alfredo Gaspar;Aliel Machado (peso normalizado: 0.764)
-Alfredo Gaspar;Ana Paula Lima (peso normalizado: 0.776)
-Alfredo Gaspar;Ana Pimentel (peso normalizado: 0.786)
-Alfredo Gaspar;André Figueiredo (peso normalizado: 0.750)
-Alfredo Gaspar;André Janones (peso normalizado: 0.763)
-Alfredo Gaspar;Andreia Siqueira (peso normalizado: 0.682)
-Alfredo Gaspar;Antonio Brito (peso normalizado: 0.686)
-Alfredo Gaspar;Átila Lins (peso normalizado: 0.787)
-Alfredo Gaspar;Augusto Coutinho (peso normalizado: 0.652)
-Alfredo Gaspar;Aureo Ribeiro (peso normalizado: 0.667)
-Alfredo Gaspar;Bandeira de Mello (peso normalizado: 0.761)
-Alfredo Gaspar;Benedita da Silva (peso normalizado: 0.798)
-Alfredo Gaspar;Benes Leocádio (peso normalizado: 0.581)
-Alfredo Gaspar;Bohn Gass (peso normalizado: 0.780)
-Alfredo Gaspar;Bruno Farias (peso normalizado: 0.595)
-Alfredo Gaspar;Caio Vianna (peso normalizado: 0.736)
-Alfredo Gaspar;Carlos Chiodini (peso normalizado: 0.587)
-Alfredo Gaspar;Carlos Henrique Gaguim (peso normalizado: 0.566)
-Alfredo Gaspar;Carlos Zarattini (peso normalizado: 0.788)
-Alfredo Gaspar;Castro Neto (peso normalizado: 0.723)
-Alfredo Gaspar;Célio Silveira (peso normalizado: 0.613)
-Alfredo Gaspar;Célio Studart (peso normalizado: 0.761)
-Alfredo Gaspar;Celso Sabino (peso normalizado: 0.596)
-Alfredo Gaspar;Cezinha de Madureira (peso normalizado: 0.615)
-Alfredo Gaspar;Charles Fernandes (peso normalizado: 0.706)
-Alfredo Gaspar;Cleber Verde (peso normalizado: 0.667)
-Alfredo Gaspar;Clodoaldo Magalhães (peso normalizado: 0.750)
-Alfredo Gaspar;Dagoberto Nogueira (peso normalizado: 0.765)
-Alfredo Gaspar;Dal Barreto (peso normalizado: 0.590)
-Alfredo Gaspar;Damião Feliciano (peso normalizado: 0.630)
-Alfredo Gaspar;Dandara (peso normalizado: 0.770)
-Alfredo Gaspar;Daniel Almeida (peso normalizado: 0.760)
-Alfredo Gaspar;Danilo Forte (peso normalizado: 0.531)
-Alfredo Gaspar;Delegada Adriana Accorsi (peso normalizado: 0.788)
-Alfredo Gaspar;Delegado Matheus Laiola (peso normalizado: 0.659)
-Alfredo Gaspar;Detinha (peso normalizado: 0.712)
-Alfredo Gaspar;Dilvanda Faro (peso normalizado: 0.791)
-Alfredo Gaspar;Dimas Gadelha (peso normalizado: 0.791)
-Alfredo Gaspar;Domingos Neto (peso normalizado: 0.683)
-Alfredo Gaspar;Dorinaldo Malafaia (peso normalizado: 0.747)
-Alfredo Gaspar;Dr Benjamim (peso normalizado: 0.571)
-Alfredo Gaspar;Duda Ramos (peso normalizado: 0.603)
-Alfredo Gaspar;Elcione Barbalho (peso normalizado: 0.743)
-Alfredo Gaspar;Elmar Nascimento (peso normalizado: 0.532)
-Alfredo Gaspar;Ely Santos (peso normalizado: 0.696)
-Alfredo Gaspar;Enfermeira Ana Paula (peso normalizado: 0.750)
-Alfredo Gaspar;Eriberto Medeiros (peso normalizado: 0.762)
-Alfredo Gaspar;Eunício Oliveira (peso normalizado: 0.735)
-Alfredo Gaspar;Fábio Macedo (peso normalizado: 0.738)
-Alfredo Gaspar;Félix Mendonça Júnior (peso normalizado: 0.655)
-Alfredo Gaspar;Fernando Coelho Filho (peso normalizado: 0.613)
-Alfredo Gaspar;Florentino Neto (peso normalizado: 0.776)
-Alfredo Gaspar;Gabriel Nunes (peso normalizado: 0.691)
-Alfredo Gaspar;Gilberto Nascimento (peso normalizado: 0.542)
-Alfredo Gaspar;Gleisi Hoffmann (peso normalizado: 0.780)
-Alfredo Gaspar;Gutemberg Reis (peso normalizado: 0.671)
-Alfredo Gaspar;Heitor Schuch (peso normalizado: 0.656)
-Alfredo Gaspar;Helena Lima (peso normalizado: 0.775)
-Alfredo Gaspar;Henderson Pinto (peso normalizado: 0.667)
-Alfredo Gaspar;Hercílio Coelho Diniz (peso normalizado: 0.634)
-Alfredo Gaspar;Hugo Motta (peso normalizado: 0.638)
-Alfredo Gaspar;Idilvan Alencar (peso normalizado: 0.773)
-Alfredo Gaspar;Ismael Alexandrino (peso normalizado: 0.679)
-Alfredo Gaspar;Isnaldo Bulhões Jr. (peso normalizado: 0.717)
-Alfredo Gaspar;Ivoneide Caetano (peso normalizado: 0.767)
-Alfredo Gaspar;Iza Arruda (peso normalizado: 0.725)
-Alfredo Gaspar;Jack Rocha (peso normalizado: 0.759)
-Alfredo Gaspar;Jadyel Alencar (peso normalizado: 0.778)
-Alfredo Gaspar;Jilmar Tatto (peso normalizado: 0.797)
-Alfredo Gaspar;João Daniel (peso normalizado: 0.800)
-Alfredo Gaspar;Jonas Donizette (peso normalizado: 0.768)
-Alfredo Gaspar;José Airton Félix Cirilo (peso normalizado: 0.762)
-Alfredo Gaspar;José Priante (peso normalizado: 0.667)
-Alfredo Gaspar;José Rocha (peso normalizado: 0.589)
-Alfredo Gaspar;Josenildo (peso normalizado: 0.733)
-Alfredo Gaspar;Josimar Maranhãozinho (peso normalizado: 0.724)
-Alfredo Gaspar;Josivaldo JP (peso normalizado: 0.586)
-Alfredo Gaspar;Juliana Cardoso (peso normalizado: 0.743)
-Alfredo Gaspar;Júlio Cesar (peso normalizado: 0.662)
-Alfredo Gaspar;Juninho do Pneu (peso normalizado: 0.608)
-Alfredo Gaspar;Lebrão (peso normalizado: 0.564)
-Alfredo Gaspar;Leo Prates (peso normalizado: 0.708)
-Alfredo Gaspar;Leonardo Monteiro (peso normalizado: 0.756)
-Alfredo Gaspar;Leônidas Cristino (peso normalizado: 0.736)
-Alfredo Gaspar;Lídice da Mata (peso normalizado: 0.778)
-Alfredo Gaspar;Lucas Ramos (peso normalizado: 0.750)
-Alfredo Gaspar;Luciano Alves (peso normalizado: 0.719)
-Alfredo Gaspar;Luciano Amaral (peso normalizado: 0.739)
-Alfredo Gaspar;Luciano Azevedo (peso normalizado: 0.649)
-Alfredo Gaspar;Luciano Ducci (peso normalizado: 0.711)
-Alfredo Gaspar;Luis Tibé (peso normalizado: 0.659)
-Alfredo Gaspar;Luisa Canziani (peso normalizado: 0.612)
-Alfredo Gaspar;Luiz Carlos Busato (peso normalizado: 0.474)
-Alfredo Gaspar;Luiz Carlos Hauly (peso normalizado: 0.731)
-Alfredo Gaspar;Luiz Fernando Faria (peso normalizado: 0.653)
-Alfredo Gaspar;Luiza Erundina (peso normalizado: 0.769)
-Alfredo Gaspar;Luizianne Lins (peso normalizado: 0.790)
-Alfredo Gaspar;Marcelo Lima (peso normalizado: 0.688)
-Alfredo Gaspar;Márcio Biolchi (peso normalizado: 0.676)
-Alfredo Gaspar;Márcio Honaiser (peso normalizado: 0.688)
-Alfredo Gaspar;Márcio Jerry (peso normalizado: 0.744)
-Alfredo Gaspar;Marcon (peso normalizado: 0.790)
-Alfredo Gaspar;Marcos Aurélio Sampaio (peso normalizado: 0.623)
-Alfredo Gaspar;Marcos Pereira (peso normalizado: 0.683)
-Alfredo Gaspar;Marcos Soares (peso normalizado: 0.508)
-Alfredo Gaspar;Maria Arraes (peso normalizado: 0.779)
-Alfredo Gaspar;Mário Heringer (peso normalizado: 0.753)
-Alfredo Gaspar;Marreca Filho (peso normalizado: 0.800)
-Alfredo Gaspar;Mauro Benevides Filho (peso normalizado: 0.758)
-Alfredo Gaspar;Max Lemos (peso normalizado: 0.728)
-Alfredo Gaspar;Meire Serafim (peso normalizado: 0.622)
-Alfredo Gaspar;Merlong Solano (peso normalizado: 0.793)
-Alfredo Gaspar;Miguel Ângelo (peso normalizado: 0.744)
-Alfredo Gaspar;Misael Varella (peso normalizado: 0.762)
-Alfredo Gaspar;Moses Rodrigues (peso normalizado: 0.582)
-Alfredo Gaspar;Murillo Gouvea (peso normalizado: 0.582)
-Alfredo Gaspar;Natália Bonavides (peso normalizado: 0.765)
-Alfredo Gaspar;Nilto Tatto (peso normalizado: 0.762)
-Alfredo Gaspar;Odair Cunha (peso normalizado: 0.768)
-Alfredo Gaspar;Orlando Silva (peso normalizado: 0.785)
-Alfredo Gaspar;Otoni de Paula (peso normalizado: 0.683)
-Alfredo Gaspar;Otto Alencar Filho (peso normalizado: 0.716)
-Alfredo Gaspar;Pastor Sargento Isidório (peso normalizado: 0.780)
-Alfredo Gaspar;Paulo Azi (peso normalizado: 0.548)
-Alfredo Gaspar;Paulo Foletto (peso normalizado: 0.688)
-Alfredo Gaspar;Pedro Campos (peso normalizado: 0.767)
-Alfredo Gaspar;Pedro Lucas Fernandes (peso normalizado: 0.645)
-Alfredo Gaspar;Professora Goreth (peso normalizado: 0.747)
-Alfredo Gaspar;Rafael Brito (peso normalizado: 0.662)
-Alfredo Gaspar;Raimundo Costa (peso normalizado: 0.735)
-Alfredo Gaspar;Reginaldo Lopes (peso normalizado: 0.788)
-Alfredo Gaspar;Renata Abreu (peso normalizado: 0.711)
-Alfredo Gaspar;Renilce Nicodemos (peso normalizado: 0.703)
-Alfredo Gaspar;Renildo Calheiros (peso normalizado: 0.753)
-Alfredo Gaspar;Ricardo Ayres (peso normalizado: 0.693)
-Alfredo Gaspar;Ricardo Maia (peso normalizado: 0.689)
-Alfredo Gaspar;Ricardo Silva (peso normalizado: 0.678)
-Alfredo Gaspar;Rodrigo de Castro (peso normalizado: 0.600)
-Alfredo Gaspar;Rodrigo Estacho (peso normalizado: 0.598)
-Alfredo Gaspar;Rogério Correia (peso normalizado: 0.791)
-Alfredo Gaspar;Romero Rodrigues (peso normalizado: 0.698)
-Alfredo Gaspar;Roseana Sarney (peso normalizado: 0.741)
-Alfredo Gaspar;Ruy Carneiro (peso normalizado: 0.646)
-Alfredo Gaspar;Saullo Vianna (peso normalizado: 0.592)
-Alfredo Gaspar;Sidney Leite (peso normalizado: 0.723)
-Alfredo Gaspar;Silas Câmara (peso normalizado: 0.607)
-Alfredo Gaspar;Tadeu Veneri (peso normalizado: 0.738)
-Alfredo Gaspar;Tiririca (peso normalizado: 0.656)
-Alfredo Gaspar;Valmir Assunção (peso normalizado: 0.772)
-Alfredo Gaspar;Vander Loubet (peso normalizado: 0.783)
-Alfredo Gaspar;Vicentinho (peso normalizado: 0.790)
-Alfredo Gaspar;Washington Quaquá (peso normalizado: 0.770)
-Alfredo Gaspar;Weliton Prado (peso normalizado: 0.720)
-Alfredo Gaspar;Welter (peso normalizado: 0.800)
-Alfredo Gaspar;Zé Silva (peso normalizado: 0.628)
-Alfredo Gaspar;Chico Alencar (peso normalizado: 0.798)
-Alfredo Gaspar;Diego Andrade (peso normalizado: 0.691)
-Alfredo Gaspar;Fred Costa (peso normalizado: 0.714)
-Alfredo Gaspar;Professora Luciene Cavalcante (peso normalizado: 0.793)
-Alfredo Gaspar;Talíria Petrone (peso normalizado: 0.800)
-Alfredo Gaspar;Túlio Gadêlha (peso normalizado: 0.787)
-Alfredo Gaspar;Emanuel Pinheiro Neto (peso normalizado: 0.771)
-Alfredo Gaspar;Sandro Alex (peso normalizado: 0.167)
-Alfredo Gaspar;Beto Preto (peso normalizado: 0.500)
-Alfredo Gaspar;Julio Cesar Ribeiro (peso normalizado: 0.400)
-Alfredo Gaspar;Duda Salabert (peso normalizado: 0.768)
-Alfredo Gaspar;Renan Ferreirinha (peso normalizado: 0.600)
+Alfredo Gaspar;Cabo Gilberto Silva 0.217
+Alfredo Gaspar;Capitão Alberto Neto 0.330
+Alfredo Gaspar;Caroline de Toni 0.239
+Alfredo Gaspar;Coronel Meira 0.281
+Alfredo Gaspar;Delegado Éder Mauro 0.322
+Alfredo Gaspar;Delegado Ramagem 0.315
+Alfredo Gaspar;Gerlen Diniz 0.378
+Alfredo Gaspar;Gilson Marques 0.243
+Alfredo Gaspar;Jorge Goetten 0.380
+Alfredo Gaspar;Lucas Redecker 0.266
+Alfredo Gaspar;Marcos Pollon 0.268
+Alfredo Gaspar;Mauricio Marcon 0.236
+Alfredo Gaspar;Pastor Eurico 0.365
+Alfredo Gaspar;Pr. Marco Feliciano 0.349
+Alfredo Gaspar;Roberto Duarte 0.413
+Alfredo Gaspar;Robinson Faria 0.467
+Alfredo Gaspar;Rosângela Moro 0.296
+Alfredo Gaspar;Rosângela Reis 0.446
+Alfredo Gaspar;Chris Tonietto 0.386
+Alfredo Gaspar;Coronel Fernanda 0.330
+Alfredo Gaspar;Covatti Filho 0.308
+Alfredo Gaspar;Deltan Dallagnol 0.338
+Alfredo Gaspar;Felipe Francischini 0.411
+Alfredo Gaspar;Julia Zanatta 0.279
+Alfredo Gaspar;Nicoletti 0.312
+Alfredo Gaspar;Capitão Augusto 0.292
+Alfredo Gaspar;Fabio Garcia 0.333
+Alfredo Gaspar;Carlos Jordy 0.268
+Alfredo Gaspar;Mendonça Filho 0.310
+Alfredo Gaspar;Abilio Brunini 0.275
+Alfredo Gaspar;Adilson Barroso 0.329
+Alfredo Gaspar;Aécio Neves 0.492
+Alfredo Gaspar;Afonso Hamm 0.206
+Alfredo Gaspar;Alberto Fraga 0.322
+Alfredo Gaspar;Alexandre Leite 0.467
+Alfredo Gaspar;Amália Barros 0.267
+Alfredo Gaspar;Ana Paula Leão 0.370
+Alfredo Gaspar;Antonio Carlos Rodrigues 0.500
+Alfredo Gaspar;Any Ortiz 0.303
+Alfredo Gaspar;Bia Kicis 0.265
+Alfredo Gaspar;Bibo Nunes 0.318
+Alfredo Gaspar;Capitão Alden 0.222
+Alfredo Gaspar;Carlos Sampaio 0.382
+Alfredo Gaspar;Clarissa Tércio 0.306
+Alfredo Gaspar;Coronel Chrisóstomo 0.337
+Alfredo Gaspar;Cristiane Lopes 0.273
+Alfredo Gaspar;Daniel Freitas 0.289
+Alfredo Gaspar;Daniel Trzeciak 0.329
+Alfredo Gaspar;Daniela Reinehr 0.265
+Alfredo Gaspar;Delegado Caveira 0.226
+Alfredo Gaspar;Delegado Fabio Costa 0.400
+Alfredo Gaspar;Delegado Palumbo 0.253
+Alfredo Gaspar;Delegado Paulo Bilynskyj 0.299
+Alfredo Gaspar;Domingos Sávio 0.316
+Alfredo Gaspar;Dr. Frederico 0.205
+Alfredo Gaspar;Dr. Jaziel 0.317
+Alfredo Gaspar;Dr. Luiz Ovando 0.477
+Alfredo Gaspar;Eduardo Bolsonaro 0.267
+Alfredo Gaspar;Emidinho Madeira 0.250
+Alfredo Gaspar;Eros Biondini 0.282
+Alfredo Gaspar;Evair Vieira de Melo 0.233
+Alfredo Gaspar;Fabio Schiochet 0.368
+Alfredo Gaspar;Fernando Rodolfo 0.425
+Alfredo Gaspar;Filipe Barros 0.297
+Alfredo Gaspar;Filipe Martins 0.397
+Alfredo Gaspar;Franciane Bayer 0.415
+Alfredo Gaspar;General Girão 0.306
+Alfredo Gaspar;General Pazuello 0.357
+Alfredo Gaspar;Geovania de Sá 0.265
+Alfredo Gaspar;Gilvan da Federal 0.299
+Alfredo Gaspar;Giovani Cherini 0.316
+Alfredo Gaspar;Helio Lopes 0.340
+Alfredo Gaspar;Icaro de Valmir 0.494
+Alfredo Gaspar;Jefferson Campos 0.316
+Alfredo Gaspar;João Maia 0.382
+Alfredo Gaspar;Joaquim Passarinho 0.270
+Alfredo Gaspar;Junio Amaral 0.257
+Alfredo Gaspar;Kim Kataguiri 0.253
+Alfredo Gaspar;Lincoln Portela 0.342
+Alfredo Gaspar;Luiz Carlos Motta 0.375
+Alfredo Gaspar;Luiz Lima 0.322
+Alfredo Gaspar;Luiz Philippe de Orleans e Bragança 0.289
+Alfredo Gaspar;Marcel van Hattem 0.231
+Alfredo Gaspar;Marcelo Álvaro Antônio 0.283
+Alfredo Gaspar;Maurício Carvalho 0.310
+Alfredo Gaspar;Mauricio do Vôlei 0.203
+Alfredo Gaspar;Messias Donato 0.289
+Alfredo Gaspar;Miguel Lombardi 0.380
+Alfredo Gaspar;Nikolas Ferreira 0.239
+Alfredo Gaspar;Osmar Terra 0.247
+Alfredo Gaspar;Pastor Gil 0.373
+Alfredo Gaspar;Paulinho Freire 0.440
+Alfredo Gaspar;Paulo Alexandre Barbosa 0.470
+Alfredo Gaspar;Paulo Freire Costa 0.349
+Alfredo Gaspar;Pedro Westphalen 0.241
+Alfredo Gaspar;Pezenti 0.378
+Alfredo Gaspar;Prof. Paulo Fernando 0.440
+Alfredo Gaspar;Rafael Simoes 0.427
+Alfredo Gaspar;Reinhold Stephanes 0.397
+Alfredo Gaspar;Ricardo Guidi 0.269
+Alfredo Gaspar;Roberta Roma 0.299
+Alfredo Gaspar;Roberto Monteiro 0.360
+Alfredo Gaspar;Rodolfo Nogueira 0.269
+Alfredo Gaspar;Rosana Valle 0.267
+Alfredo Gaspar;Sanderson 0.321
+Alfredo Gaspar;Sargento Fahur 0.253
+Alfredo Gaspar;Sargento Gonçalves 0.247
+Alfredo Gaspar;Silvia Cristina 0.411
+Alfredo Gaspar;Silvia Waiãpi 0.286
+Alfredo Gaspar;Sonize Barbosa 0.244
+Alfredo Gaspar;Thiago Flores 0.471
+Alfredo Gaspar;Vermelho 0.358
+Alfredo Gaspar;Wellington Roberto 0.409
+Alfredo Gaspar;Zé Trovão 0.299
+Alfredo Gaspar;Zé Vitor 0.314
+Alfredo Gaspar;Zucco 0.319
+Alfredo Gaspar;Adriana Ventura 0.281
+Alfredo Gaspar;Coronel Telhada 0.246
+Alfredo Gaspar;David Soares 0.429
+Alfredo Gaspar;Dayany Bittencourt 0.318
+Alfredo Gaspar;Dr. Fernando Máximo 0.235
+Alfredo Gaspar;Eli Borges 0.352
+Alfredo Gaspar;Giacobo 0.387
+Alfredo Gaspar;Leur Lomanto Júnior 0.500
+Alfredo Gaspar;Magda Mofatto 0.289
+Alfredo Gaspar;Marcio Alvino 0.310
+Alfredo Gaspar;Pedro Lupion 0.357
+Alfredo Gaspar;Professor Alcides 0.342
+Alfredo Gaspar;Ricardo Salles 0.274
+Alfredo Gaspar;José Medeiros 0.341
+Alfredo Gaspar;Samuel Viana 0.463
+Alfredo Gaspar;Sóstenes Cavalcante 0.355
+Alfredo Gaspar;Soraya Santos 0.300
+Alfredo Gaspar;Coronel Assis 0.349
+Alfredo Gaspar;Delegada Ione 0.469
+Alfredo Gaspar;Marcelo Moraes 0.268
+Alfredo Gaspar;Altineu Côrtes 0.464
+Alfredo Gaspar;André Fernandes 0.303
+Alfredo Gaspar;André Ferreira 0.344
+Alfredo Gaspar;Carla Zambelli 0.347
+Alfredo Gaspar;Coronel Ulysses 0.372
+Alfredo Gaspar;Dr. Zacharias Calil 0.358
+Alfredo Gaspar;Gustavo Gayer 0.292
+Alfredo Gaspar;Mario Frias 0.280
+Alfredo Gaspar;Pastor Diniz 0.316
+Alfredo Gaspar;Priscila Costa 0.348
+Alfredo Gaspar;Rodrigo Valadares 0.254
+Alfredo Gaspar;Silvye Alves 0.449
+Alfredo Gaspar;Padovani 0.358
+Alfredo Gaspar;Eduardo Velloso 0.389
+Alfredo Gaspar;Adolfo Viana 0.481
+Alfredo Gaspar;Luiz Carlos Busato 0.474
+Alfredo Gaspar;Sandro Alex 0.167
+Alfredo Gaspar;Beto Preto 0.500
+Alfredo Gaspar;Julio Cesar Ribeiro 0.400

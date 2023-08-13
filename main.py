@@ -28,7 +28,9 @@ if not partido[0].strip():
 if ano not in anos:
     print(f"Ano inválido. Escolha um ano entre 2002 e 2023.")
 else:
-    threshold = 0.2
+    threshold = input("Informe o percentual minimo de concordancia ( threshold ) ( ex . 0.9) :") 
     grafo_resultado_filtros = f"grafo_votacoes_iguais_por_filtros_{ano}.txt"
-    GrafoPonderado.criar_grafo_votacoes_iguais(ano, partido, grafo_resultado_filtros, threshold)
+    grafico_centralidade = f"grafico_centralidade_{ano}.pdf"
+    GrafoPonderado.criar_grafo_votacoes_iguais(ano, partido, grafo_resultado_filtros, threshold, f"grafico_centralidade_{ano}.pdf")
     print(f"Grafo de votações iguais normalizado salvo em {grafo_resultado_filtros}.")
+    print(f"Pdf do gráfico de barras {grafico_centralidade}.")
